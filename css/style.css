@@ -5,9 +5,10 @@
     font-family: system-ui, sans-serif;
 }
 
-::selection {
-    background: #20000080;
-}
+/* ::selection {
+    background: #4e000088;
+    color: #005000;
+} */
 
 body {
     background-image: linear-gradient(to left, #0b1f00, #003d00e5);
